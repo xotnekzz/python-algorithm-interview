@@ -1,4 +1,6 @@
 """
+유효한 팰린드롬 ( https://leetcode.com/problems/valid-palindrome/ )
+
 palindrome : 앞뒤가 똑같은 단어나 문장을, 뒤집어도 같은 말이 되는 단어 또는 문장을 팰림드롬이라 한다.
 
 Input : A man, a plan, a canal: Panama
